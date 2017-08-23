@@ -15,7 +15,7 @@ Documentation, Changelog and Issues related to the England Netball endpoint
 | "num_of_days" | text | Applies NYC only: duration of NYC camp - 1, 3, 5 days |
 | "day_duration" | text | Applies to NYC only: duration of day 9am - 5pm or 10am - 3pm |
 | "staff_role" | text |  |
-| "contact_number" | text |  |
+| "contact_number" | "01462 442344" |  |
 | "venue_name" | "England Netball HQ" | Name of the venue |
 | "venue_address_1" | "Netball House" | Venue address line 1 |
 | "venue_address_2" | "1-12 Old Park Road" | Venue address line 2 |
