@@ -16,6 +16,14 @@ Documentation, Changelog and Issues related to the England Netball endpoint
 | "day_duration" | text | Applies to NYC only: duration of day 9am - 5pm or 10am - 3pm |
 | "staff_role" | text |  |
 | "contact_number" | text |  |
+| "venue_name" | "England Netball HQ" | Name of the venue |
+| "venue_address_1" | "Netball House" | Venue address line 1 |
+| "venue_address_2" | "1-12 Old Park Road" | Venue address line 2 |
+| "venue_address_3" | "" | Venue address line 3 |
+| "venue_address_town" | "Hitchin" | City/Town venue located in |
+| "venue_address_county" | "Hertfordshire" | County venue located in |
+| "venue_address_postcode" | "SG5 2JR" | Venue postcode |
+| "last_programme_session_date" | "2017-05-31" | Last session running for specific programme  |
 
 
 
