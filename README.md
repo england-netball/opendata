@@ -18,7 +18,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | "num_of_days" | text | Applies NYC only: duration of NYC camp - 1, 3, 5 days |
 | "day_duration" | text | Applies to NYC only: duration of day 9am - 5pm or 10am - 3pm |
 | "contact_role" | text | Session Deliverer role |
-| "contact_number" | "01462 442344" |  |
+| "contact_number" | "01462 442344" | Contact number for deliverer |
 | "facebook_link" | text | "Link to the sessions Facebook page " |
 | "twitter_link" | text | "Link to the sessions Twitter feed " |
 | "venue_name" | "England Netball HQ" | Name of the venue |
