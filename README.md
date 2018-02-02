@@ -19,8 +19,8 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | "day_duration" | text | Applies to NYC only: duration of day 9am - 5pm or 10am - 3pm |
 | "contact_role" | text | Session Deliverer role |
 | "contact_number" | "01462 442344" |  |
-| "facebook_link" | "Link to the sessions Facebook page " |  |
-| "twitter_link" | "Link to the sessions Twitter feed " |  |
+| "facebook_link" | text | "Link to the sessions Facebook page " |
+| "twitter_link" | text | "Link to the sessions Twitter feed " |
 | "venue_name" | "England Netball HQ" | Name of the venue |
 | "venue_address_1" | "Netball House" | Venue address line 1 |
 | "venue_address_2" | "1-12 Old Park Road" | Venue address line 2 |
