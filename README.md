@@ -17,8 +17,10 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | "age_group" | text | Applies to NYC only: defined age group 9-11 or 11-16 |
 | "num_of_days" | text | Applies NYC only: duration of NYC camp - 1, 3, 5 days |
 | "day_duration" | text | Applies to NYC only: duration of day 9am - 5pm or 10am - 3pm |
-| "staff_role" | text |  |
+| "contact_role" | text | Session Deliverer role |
 | "contact_number" | "01462 442344" |  |
+| "facebook_link" | "Link to the sessions Facebook page " |  |
+| "twitter_link" | "Link to the sessions Twitter feed " |  |
 | "venue_name" | "England Netball HQ" | Name of the venue |
 | "venue_address_1" | "Netball House" | Venue address line 1 |
 | "venue_address_2" | "1-12 Old Park Road" | Venue address line 2 |
@@ -26,7 +28,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | "venue_address_town" | "Hitchin" | City/Town venue located in |
 | "venue_address_county" | "Hertfordshire" | County venue located in |
 | "venue_address_postcode" | "SG5 2JR" | Venue postcode |
-| "last_programme_session_date" | "2017-05-31" | Last session running for specific programme  |
+| "last_programme_session_date" | "2017-05-31" | Last session running for specific programme block  |
 | "overview" | "Line one\nSecond line" | Summary description about the programme type  |
 | "booking_url" | "https://www.test.url" | Booking url for session  |
 | "distance" | 2.5 | Distance in miles from venue |
