@@ -35,8 +35,8 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | "latitude" | 51.947899 | Latitude of venue  |
 | "longitude" | -0.282528 | Longitude of venue |
 | "cancelled" | false | Whether the individual session has been cancelled.  Default = false |
-| "costs" | "" | Full price cost - standard fee for session Custom costs - up to 3 custom costs with custom labels NYC only: Member cost and non member cost |
-| "discounts" | "" | NYC only: Early bird and General discount free text fields to provide discount info.  Both have valid until dates dd/mm/yyyy |
+| "costs" | "" | Full price cost - standard fee for session Custom costs - up to 3 custom costs with custom labels. Netball Youth Camps only: Member cost and non member cost |
+| "discounts" | "" | Netball Youth Camps only: Early bird and General discount free text fields to provide discount info.  Both have valid until dates dd/mm/yyyy |
 
 
 
