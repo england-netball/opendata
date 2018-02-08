@@ -3,7 +3,7 @@ Documentation, Changelog and Issues related to the England Netball endpoint
 ## Open Data Endpoint
 https://api.englandnetball.co.uk/api/openactive/sessions.json - feed for England Netball Sessions running across England
 ## Standards
-The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
+The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.4](https://www.openactive.io/realtime-paged-data-exchange/0.2.4/).
 ## Issues, Questions and Comments
 Please raise any issues, questions or comments as a [new issue in this repository](https://github.com/england-netball/opendata/issues)
 ## Data Fields
